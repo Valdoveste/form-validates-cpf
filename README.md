@@ -71,7 +71,7 @@ result of multiplication
 
 >Second validate digit is 5 and it's matches too so the **CPF** is valid.
 
-Img CPF valid![Example](https://imgur.com/Md7I1wA)
+<img src="https://i.imgur.com/45otus6.png"></img>
 
 Obs:. There some examples of types of CPF that are not assigned by anybody.
 
