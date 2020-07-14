@@ -1,6 +1,5 @@
 # form-validates-cpf
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="OUQJOax"><a href="https://imgur.com/OUQJOax">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/OUQJOax.png"></img>
 ### A form who´s validate **CPF** in my country.
 
    #### so... what's a **CPF**? 
