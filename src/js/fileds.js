@@ -54,19 +54,6 @@ fields[0].addEventListener("change", eventgetCPF => {
     }
 });
 
-/* 
-    Whais CPF? 
-
-    The Individual Taxpayer Registry is the register 
-    maintained by the Federal Revenue of Brazil in which
-    any natural persons, regardless of age or nationality,
-    including those who have died, can register once. Each
-    registrant is uniquely identified by an 11 decimal 
-    digitCPF registration number.
-
-    So basically this part verify is "CPF" is valid.
-
-*/
 function validatesCPF(x) {
 let sum = 0;
 let digValidator = "";
