@@ -1,7 +1,7 @@
 # form-validates-cpf
 ### A form who's validate **CPF** in my country.
 
-<img style="border-radius:20px;" src="https://i.imgur.com/OUQJOax.png"></img>
+<img src="https://imgur.com/nvm1Fgh"></img>
 
    #### so... what's a **CPF**? 
 
