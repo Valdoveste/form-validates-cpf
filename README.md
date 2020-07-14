@@ -69,6 +69,8 @@ result of multiplication
 
 >Second validate digit is 5 and it's matches too so the **CPF** is valid.
 
+Img CPF valid![Example](https://imgur.com/Md7I1wA)
+
 Obs:. There some examples of types of CPF that are not assigned by anybody.
 
 |000.000.0000-00|111.111.111-11|222.222.222-22|333.333.333-33|
