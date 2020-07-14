@@ -50,8 +50,7 @@ the sum by 11 and subtract the remainer by subtract 11.
 
   #### 2º Calculation 
  for the seconde calculation is basicaly 
- the same thing, only change is we gonna 
- add the new digit for the sum  
+ the same thing, only some changes as you can see.
     
  > 1 3 2 5 5 0 4 2 8 9
  
