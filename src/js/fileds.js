@@ -28,7 +28,6 @@ fields[4].addEventListener("change", eventformatingZIPCODE => {
 
 
 /* 
-Panda
 Select all fields with "data-js = number", and add
 a "RegeEx" and "Listener", which prevents the user from typing
 alphabetic letters and some special characters.
