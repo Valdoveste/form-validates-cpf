@@ -10,6 +10,25 @@ form{
     box-shadow: 0px 0px 5px 3px #6443c9de;
 }
 
+#info-cpf-popup{
+    z-index: 1;
+    position: absolute;
+    right: 45px;
+    width: auto;
+    margin: 16px;
+    height: auto;
+    display: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #f0eff5;;
+}
+
+#invalid-cpf-popup p {
+    color: #4527a0;
+}
+
 input{
     width: 100%;
     height: 50px;
