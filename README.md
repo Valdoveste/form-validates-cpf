@@ -70,7 +70,7 @@ result of multiplication
 
 >Second validate digit is 5 and it's matches too so the **CPF** is valid.
 
-<img src="i.imgur.com/45otus6.pngi.imgur.com/45otus6.pngi.imgur.com/45otus6.png"></img>
+<img src="https://i.imgur.com/MFu7w1U.png"></img>
 
 Obs:. There some examples of types of CPF that are not assigned by anybody.
 
@@ -81,7 +81,7 @@ Obs:. There some examples of types of CPF that are not assigned by anybody.
 |881.111.118-88|999.991.111-11|111.111.361-75||
 
 ```
-I made this very noobie RegEx to catch all the possible wrong **CPF**.
+I made this very noobie RegEx to catch all the possible wrong CPF.
 
 const RegEx = [
 /(^[A-ZÀ-Ú-a-zà-ú_@/#&+*]*$)/,
