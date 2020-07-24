@@ -1,7 +1,7 @@
 # form-validates-cpf
 ### A form who's validate **CPF** in my country.
 
-<img src="https://i.imgur.com/nvm1Fgh.png"></img>
+<img src="https://i.imgur.com/Hu8Uhsa.png"></img>
 
    #### so... what's a **CPF**? 
 
@@ -70,7 +70,7 @@ result of multiplication
 
 >Second validate digit is 5 and it's matches too so the **CPF** is valid.
 
-<img src="https://i.imgur.com/45otus6.png"></img>
+<img src="i.imgur.com/45otus6.pngi.imgur.com/45otus6.pngi.imgur.com/45otus6.png"></img>
 
 Obs:. There some examples of types of CPF that are not assigned by anybody.
 
