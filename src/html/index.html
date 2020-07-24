@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Form</title>
-        <!-- <meta http-equiv="refresh" content="1" > --> 
+       <!--  <meta http-equiv="refresh" content="1" >  -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../css/styles.css">
         <link rel="stylesheet" href="../../global.css">
@@ -24,11 +24,12 @@
                 </div>
                 <!-- Information contact -->
                 <input type="text" name="Name" placeholder="Full name" minlength="3" pattern="([A-ZÀ-Ú]{1})([a-zà-ú]{2,})" autofocus required>
+                <div id="info-cpf-popup"></div>
                 <input type="text" data-js="number" name="CPF" maxlength="11" placeholder="CPF" required><br>
                 <input type="email" name="Email" placeholder="E-mail" required><br>
                 <div class="container-phoneinfo">
-                    <input type="text" data-js="number" name="DD" placeholder="DD" maxlength="2" required>&nbsp;&nbsp;
-                    <input type="text" data-js="number" name="Phone" placeholder="00000-0000" minlength="9" required>
+                    <input type="text" data-js="algorism" name="DD" placeholder="DD" maxlength="2" required>&nbsp;&nbsp;
+                    <input type="text" data-js="algorism" name="Phone" placeholder="00000-0000" minlength="9" required>
                 </div>
                 <br>
                 <!-- Selection gender -->
@@ -43,14 +44,14 @@
                 <!-- Containers for address -->
                 <div class="container-address1">
                     <input type="text" name="Address" minlength="3" placeholder="Address">
-                    <input type="text" data-js="number" name="StreetNumber" maxlength="5" placeholder="Stree number"  minlength="4" required>
+                    <input type="text" data-js="algorism" name="StreetNumber" maxlength="5" placeholder="Stree number"  minlength="4" required>
                 </div><br>
                 <div class="container-address2">
                     <input type="text" name="Neighborhood" placeholder="Neighborhood" minlength="6">
-                    <input type="text" data-js="number" name="ZipCode" placeholder="Zip code" minlength="8" required>
+                    <input type="text" data-js="algorism" name="ZipCode" placeholder="Zip code" minlength="8" required>
                 </div>
                 
-                <input type="submit" value="Register">
+               <!--  <input type="submit" value="Register"> -->
             </form>
         </div>
         <script src="../js/fileds.js" type="text/javascript" sync defer></script>
